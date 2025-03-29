@@ -1,1 +1,5 @@
-# Hello
+---
+layout: home
+author_profile: false
+---
+
