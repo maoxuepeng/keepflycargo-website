@@ -21,7 +21,7 @@ feature_row:
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-saving-money.jpeg
+  - image_path: /assets/images/mm-saveing-money.jpeg
     alt: "low cost"
     title: "Low cost"
     excerpt: "Maximize your savings with exclusive direct partnership discounts and unbeatable rates—your trusted solution for low-cost, high-quality China-to-Canada logistics."
