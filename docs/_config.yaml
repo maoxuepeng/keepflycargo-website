@@ -11,11 +11,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://keepflycargo.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Keepfly Cargo
 #email      : your-email@example.com #this is also the email contact forms will go to
@@ -40,4 +38,7 @@ markdown: kramdown
 # formspree_form_path: "f/a_form_id"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache  # 必须添加此插件
+  - jekyll-feed  # 其他常用插件（按需添加）
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"  # 指定主题版本
+minimal_mistakes_skin: "default"  # 可选：设置主题皮肤
