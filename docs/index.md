@@ -6,29 +6,32 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> Get the price"
+      url: "/pricing"
+    - label: "<i class='fas fa-download'></i> Where is my goods"
+      url: "/traking"
+
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "canada"
+    title: "Trusted China-Canada line"
+    excerpt: "Trusted China-Canada logistics experts with 13 years of specialized door-to-door excellence—your cargo, our proven legacy."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "low cost"
+    title: "Low cost"
+    excerpt: "Maximize your savings with exclusive direct partnership discounts and unbeatable rates—your trusted solution for low-cost, high-quality China-to-Canada logistics."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "Guaranteed delivery time"
+    title: "Guaranteed delivery time"
+    excerpt: "Experience seamless China-to-Canada logistics with up to 20-day guaranteed door-to-door delivery—your cargo arrives on time, every time."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
